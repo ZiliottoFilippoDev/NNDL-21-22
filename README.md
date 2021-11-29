@@ -8,4 +8,8 @@ Here are the notebooks and the realted code for the 3 different homeworks.
     - Classification task
 
   - Second Homework
+    - AutoEncoder
+    - Variational AutoEncoder
+    - GAN
+  
   - Third Homework
