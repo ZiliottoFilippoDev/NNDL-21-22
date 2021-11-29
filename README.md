@@ -12,6 +12,6 @@ Here are the notebooks and the realted code for the 3 different homeworks.
     - Variational AutoEncoder
     - GAN
 
-[![Watch the video](gans_training.avi)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](gans_training.avi)]
   
   - Third Homework
