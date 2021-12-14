@@ -17,3 +17,4 @@ Here are the notebooks and the realted code for the 3 different homeworks.
     - CartPole-v2
     - LunarLander-v2
     - ![lunar_solved](solved_lunar.gif)
+    - ![cart_solved](solved_cart.gif)
