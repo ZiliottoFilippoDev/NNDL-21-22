@@ -14,7 +14,7 @@ Here are the notebooks and the realted code for the 3 different homeworks.
     - ![gans_training](https://user-images.githubusercontent.com/78668728/144063880-d839a4fa-3c15-4daf-ae25-5f6300509f15.gif)
   
   - Third Homework
-    - CartPole-v2
     - LunarLander-v2
     - ![lunar_solved](solved_lunar.gif)
+    - CartPole-v2
     - ![cart_solved](solved_cartpole.gif)
